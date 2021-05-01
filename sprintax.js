@@ -11,8 +11,8 @@ function newTransaction(description, date_of_sale, date_of_acquistion, stocks_bo
 }
 // All transactions.
 var transactions = [
-    newTransaction("ABC inc", "10/2/2020", "09/21/2020", "1234", "4321.00"),
-    newTransaction("ABC inc", "10/2/2020", "09/21/2020", "1234", "4321.00")
+    newTransaction("Example Inc", "10/2/2020", "09/21/2020", "1234.56", "4321.00"),
+    newTransaction("ABC inc", "10/2/2020", "09/21/2020", "1234.56", "4321.00")
 ]
 
 // Copy and paste Robinhood's info
