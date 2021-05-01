@@ -15,7 +15,7 @@ var transactions = [
     newTransaction("ABC inc", "10/2/2020", "09/21/2020", "1234", "4321.00")
 ]
 
-// Copy and pasting Robinhood's info
+// Copy and paste Robinhood's info
 document.getElementById('__employer_details_employer_name').value="Robinhood Securities LLC"
 document.getElementById('__employer_details_employer_address').value="500 Colonial Center Parkway Suite 100"
 document.getElementById('__employer_details_employer_city').value="Lake Mary"
